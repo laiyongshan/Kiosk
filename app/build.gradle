@@ -5,7 +5,7 @@ android {
         config {
             keyAlias 'kiosk'
             keyPassword 'kiosk123456'
-            storeFile file('F:/Kiosk/jks/kiosk.jks')
+//            storeFile file('F:/Kiosk/jks/kiosk.jks')
             storePassword 'kiosk123456'
         }
     }
